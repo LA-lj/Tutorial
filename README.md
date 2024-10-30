@@ -1,35 +1,37 @@
-# 书生大模型实战营（第三期闯关大挑战）
+# 书生大模型实战营（第四期）
 
-![image](https://github.com/user-attachments/assets/93ff2412-777c-4619-812b-0134eb327cf3)
+![icamp4](https://github.com/user-attachments/assets/cf5eca85-bb13-4b96-aa54-b29fa40d36b7)
 
 
-闯关手册：https://aicarrier.feishu.cn/wiki/XBO6wpQcSibO1okrChhcBkQjnsf
+闯关手册：https://aicarrier.feishu.cn/wiki/QtJnweAW1iFl8LkoMKGcsUS9nld
 
 
 ## 1. 关卡
 
-![image](https://github.com/user-attachments/assets/7678811b-4158-4ad4-8161-ac5ba1730c13)
+![update](https://github.com/user-attachments/assets/1f65a77a-3490-47ff-b408-be6d7a190802)
 
 
 ### 1.1. 入门关卡
 
 ||关卡名称|资料|闯关激励|
 |:-----|:----|:----|:-----|
-|第 1 关| Linux 前置基础 |[任务](docs/L0/Linux/task.md)、[文档](docs/L0/Linux)、[视频](https://www.bilibili.com/video/BV1FS421d7yg/)| 50元算力点 |
-|第 2 关|Python 前置基础 | [任务](docs/L0/Python/task.md)、[文档](docs/L0/Python)、[视频](https://www.bilibili.com/video/BV1mS421X7h4/)| 50元算力点|
-|第 3 关|Git 前置基础|[任务](docs/L0/Git/task.md)、[文档](docs/L0/Git)、[视频](https://www.bilibili.com/video/BV1Pz421i7bw/)| 50元算力点 |
+|第 1 关| Linux 前置基础 |[任务](docs/L0/linux/task.md)、[文档](docs/L0/linux)、[视频](https://www.bilibili.com/video/BV13U1VYmEUr)| 50元算力点 |
+|第 2 关|Python 前置基础 | [任务](docs/L0/Python/task.md)、[文档](docs/L0/Python)、[视频](https://www.bilibili.com/video/BV1u61jYSExg)| 50元算力点|
+|第 3 关|Git 前置基础|[任务](docs/L0/git/task.md)、[文档](docs/L0/git/)、[视频]| 50元算力点 |
+|第 4 关|玩转「HF/魔搭/魔乐」平台|[任务](docs/L0/maas/task.md)、[文档](docs/L0/maas)、[视频](https://www.bilibili.com/video/BV1XxStYYEH1/)| 50元算力点 |
+
 
 ### 1.2. 基础关卡
 
 
 ||关卡名称|资料|闯关激励|
 |:-----|:----|:----|:-----|
-|第 1 关| 书生大模型全链路开源体系 |[任务](docs/L1/HelloIntern/task.md)、[视频](https://www.bilibili.com/video/BV18142187g5/)| 100元算力点 |
-|第 2 关| 8G 显存玩转书生大模型 Demo | [任务](docs/L1/Demo/task.md)、[文档](docs/L1/Demo/readme.md)、[视频](https://www.bilibili.com/video/BV18x4y147SU/)| 100元算力点 |
-|第 3 关| 浦语提示词工程实践 | [任务](docs/L1/Prompt/task.md)、[文档](docs/L1/Prompt)、[视频](https://www.bilibili.com/video/BV1cU411S7iV)| 100元算力点 |
-|第 4 关| InternLM + LlamaIndex RAG 实践|[任务](docs/L1/LlamaIndex/task.md)、[文档](docs/L1/LlamaIndex)、[视频](https://www.bilibili.com/video/BV19E4m1X79q/)| 100元算力点 |
-|第 6 关| XTuner 微调个人小助手认知 | [任务](docs/L1/XTuner/task.md)、[文档](docs/L1/XTuner)、[视频](https://www.bilibili.com/video/BV1tz421B72y/)| 100元算力点 |
-|第 7 关| OpenCompass 评测 InternLM-1.8B 实践 | [任务](docs/L1/OpenCompass/task.md)、[文档](docs/L1/OpenCompass/readme.md)、[视频](https://www.bilibili.com/video/BV1RM4m1279j/) | 100元算力点 |
+|第 1 关| 书生大模型全链路开源体系 |[任务]、[视频]| 100元算力点 |
+|第 2 关| 玩转书生「多模态对话」和「AI搜索」产品 | [任务]、[文档]、[视频]| 100元算力点 |
+|第 3 关| 浦语提示词工程实践 | [任务](docs/L1/Prompt/tasks.md)、[文档](docs/L1/Prompt)、[视频]| 100元算力点 |
+|第 4 关| InternLM + LlamaIndex RAG 实践|[任务](docs/L1/LlamaIndex/task.md)、[文档](docs/L1/LlamaIndex)、[视频]| 100元算力点 |
+|第 6 关| XTuner 微调个人小助手认知 | [任务](docs/L1/XTuner/task.md)、[文档](docs/L1/XTuner)、[视频]| 100元算力点 |
+|第 7 关| OpenCompass 评测书生大模型实践 | [任务]、[文档]、[视频]| 100元算力点 |
 
 
 
@@ -37,20 +39,18 @@
 
 ||关卡名称|资料|闯关激励|
 |:-----|:----|:----|:-----|
-|第 1 关| 探索 InternLM 模型能力边界 | [任务](https://aicarrier.feishu.cn/wiki/QjBswYlmdiSGfskq6vNcBmZCn09)| 100元算力点 |
-|第 2 关| Lagent 自定义你的 Agent 智能体 | [任务](docs/L2/Lagent/task.md)、[文档](docs/L2/Lagent/readme.md)、[视频](https://www.bilibili.com/video/BV18M4m1y7sm/)| 100元算力点 |
-|第 3 关| LMDeploy 量化部署进阶实践 | [任务](docs/L2/LMDeploy/task.md)、[文档](docs/L2/LMDeploy/readme.md)、[视频](https://www.bilibili.com/video/BV1df421q7cR/)| 100元算力点 |
-|第 4 关| InternVL 多模态模型部署微调实践 | [任务](https://github.com/InternLM/Tutorial/tree/camp3/docs/L2/InternVL/task.md)、[文档](https://github.com/InternLM/Tutorial/tree/camp3/docs/L2/InternVL/joke_readme.md)、[视频](https://www.bilibili.com/video/BV1N6p1eXETX/)| 100元算力点 |
-|第 5 关| 茴香豆：企业级知识库问答工具 | [任务](docs/L2/Huixiangdou/task.md)、[文档](docs/L2/Huixiangdou)、[视频](https://www.bilibili.com/video/BV1C5W2epEYP/)| 100元算力点 |
-|第 6 关| MindSearch CPU-only 版部署 | [任务](docs/L2/MindSearch/task.md)、[文档](docs/L2/MindSearch/readme_github.md) | 100元算力点 |
+|第 1 关| 探索书生大模型能力边界 | [任务]| 100元算力点 |
+|第 2 关| Lagent 自定义你的 Agent 智能体 | [任务]、[文档]、[视频]| 100元算力点 |
+|第 3 关| LMDeploy 量化部署进阶实践 | [任务]、[文档]、[视频]| 100元算力点 |
+|第 4 关| InternVL 多模态模型部署微调实践 | [任务]、[文档]、[视频]| 100元算力点 |
+|第 5 关| 茴香豆：企业级知识库问答工具 | [任务]、[文档]、[视频]| 100元算力点 |
+|第 6 关| MindSearch深度解析及实践 | [任务]、[文档] | 100元算力点 |
 
 ### 1.4. 彩蛋岛
 
 ||关卡名称|资料|
 |:-----|:----|:-----|
-|第 1 关| 销冠大模型案例 |[文档](docs/EasterEgg/StreamerSales)、[视频](https://www.bilibili.com/video/BV1f1421b7Du)|
-|第 2 关| InternLM 1.8B 模型 Android 端侧部署实践  | [文档](docs/EasterEgg/Android)、[视频](https://www.bilibili.com/video/BV1Ai421a7R6/)|
-|第 3 关| 手把手带你使用InternLM实现谁是卧底游戏|[文档](docs/EasterEgg/Game)|
+|第 1 关| 书生大模型遇见 coze/dify/flowise |[文档]、[视频]|
 
 ## 2. 证书
 
@@ -68,10 +68,16 @@
 
 参与方法  
 - 启航准备：通过填写问卷报名加入实战营，开启你的学习之旅。  
-- 专属海报：访问书生共学计划活动页面（https://colearn.intern-ai.org.cn/ ），输入手机号，定制你独一无二的分享海报。  
+- 专属海报：访问书生共学计划活动页面（https://colearn.intern-ai.org.cn/co ），系统将自动生成你的专属海报
 - 招募同行者：将海报分享给你身边的小伙伴，邀请他们报名实战营，共享知识的力量。  
 
-![image](https://github.com/user-attachments/assets/8c3680d1-ee19-43b5-86e1-d62b8bffb9b0)  
+
+<div align="center">
+
+  <img width="440" alt="image" src="https://github.com/user-attachments/assets/99f03ded-da19-42a1-a42d-982fe58ae0c3">
+
+</div>
+
 
 
 
